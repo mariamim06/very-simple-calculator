@@ -23,7 +23,7 @@ main {
 }
 #output input{
     font-size: 40px;
-    font-weight: 100;
+    font-weight: 300;
     width: 96%;
     height: 70px;
     background-image: linear-gradient(to bottom, rgb(190, 242, 243), white,rgb(190, 242, 243));
